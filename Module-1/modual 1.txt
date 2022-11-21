@@ -1,0 +1,39 @@
+1)what is software?
+  A set of instructions,data or programs used to operate a computer and execute specific
+  tasks is a software.
+  Computer instructions or data anything that can be stored electronically.
+  eg: microsoft offices
+      games
+      mobile applications.
+
+
+2)What are the types of applications?
+  Different types of application software are here:
+  word processing software
+  spreadsheet software
+  database software
+  desktop software
+  communication software 
+  presentation software
+  internet browsers
+  email programs
+  graphics software
+
+
+3)what is programming?
+  "A programming is a way to instruct the computer to perform various tasks"
+   We use a progamming language like python to communicate with the computer.
+   Its a collabrtaion between human and computer.
+   eg: coding or communication.
+   functional programming
+   procedual programming
+   object-oriented programming
+   logic programming.
+
+4)What is python?
+  python is a dynamic, high level programming language.
+  It is interpreted and supports obect-oriented programming as well as procedual-oriented
+  programming.
+  python is a free open source.
+  It can run equally on different platforms such as Windows, Linux ,UNIX, Mac, etc.
+  Thus,It is a simple, powerful and portable language.
