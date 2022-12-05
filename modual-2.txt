@@ -1,0 +1,41 @@
+1)What is list? How will you reverse a list?
+ Lists are used to store multiple items in a single variable.
+ Lists are one of the in-built data types to store collections of the data.
+ A list is created by placing elements inside square brackets[] ,separeted by commas.
+ A list can have any number of items and they may be of differnt types.
+ e.g.(integer,float,string,etc.)
+ A list can also have another list as an item.
+ This is called a nested list.
+ We can reverse a list byusing built-in reverse() method.
+ It will reverse the element in the original list object.
+ The reverse() method reverses the sequence of the list permanently.
+
+2)How will you remove last objects from the list?
+  Remove last element from list using del operator.del operator can delete the last 
+  element from the list along with index.
+  The del operator deletes the element at the specified index location from the list.
+  To delete  the last element,we can use the negative index.
+  
+3)How will you compare two list?
+ We can combine Python's sort() method with the == operator to compare two lists.
+ Python sort() method is used to sort the input lists with a purpose that if two input
+ lists are equal.
+ Then the elements would reside at the same index positions.
+ Compare two lists using equal sign operator.
+ Match data by using row difference technique.
+ Match row differnce by using IF condition.
+ Match data even if there is a row differnce.
+ Highlight all the matching data using conditional formatting. 
+
+4)What is tuple? Difference between list and tuple?
+ A tuple is a collection of objects which ordered and immutable.
+ Tuples are sequences, just like lists.
+ Removing individual tuple elements is not possible .
+ And to remove an entire tuple , just use del statments.
+ DIFFERENCE BETWEEN:-
+ lists are mutable and tuples are immutable.
+ lists can be chnges once thet created & tuple cannot change once they have been created.
+ list consumes more memory and tuples consumes less memory.
+ lists operations are more error prone and tuples operations are safe.
+ lists provides many in-built methods and tuples have less in-built methods.
+ list iteration is slower and is time consuming and tuple iteration is faster.
