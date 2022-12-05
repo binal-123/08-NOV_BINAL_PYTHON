@@ -1,0 +1,73 @@
+1)what is software?
+  A set of instructions,data or programs used to operate a computer and execute specific
+  tasks is a software.
+  Computer instructions or data anything that can be stored electronically.
+  eg: microsoft offices
+      games
+      mobile applications.
+
+
+2)What are the types of applications?
+  Different types of application software are here:
+  word processing software
+  spreadsheet software
+  database software
+  desktop software
+  communication software 
+  presentation software
+  internet browsers
+  email programs
+  graphics software
+
+
+3)what is programming?
+  "A programming is a way to instruct the computer to perform various tasks"
+   We use a progamming language like python to communicate with the computer.
+   Its a collabrtaion between human and computer.
+   eg: coding or communication.
+   functional programming
+   procedual programming
+   object-oriented programming
+   logic programming.
+
+4)What is python?
+  Python is a dynamic, high level programming language.
+  It is interpreted and supports obect-oriented programming as well as procedual-oriented
+  programming.
+  python is a free open source.
+  It can run equally on different platforms such as Windows, Linux ,UNIX, Mac, etc.
+  Thus,It is a simple, powerful and portable language.
+
+5)How memory is managed in python?
+  Memory management in python involves a private heap containing all Python Object and
+  data structures.
+  The management of this private heap is ensured internally by the python memory
+  manager.
+  Python uses a portion of the memory for internal uses and non-object memory.
+  Another part of the memory is used for python objects such as int,dict,list,etc. 
+  The programmer does not have access to this private heap and interpreter takes care
+  of this Python private heap.
+
+6)What is the purpose continue statement in python?
+  In Python,continue is the loop to control statements executed inside the loop.
+  This statements either skip according to the conditions inside the loop or terminate
+  the loop execution at some point.
+  Insted of terminating the loop like a break statements, it moves on to the subsequent
+  execution.
+  Its syntax is:continue;
+  Continue statements is almost used in if... and else...statements.
+  This explains continue statements in python.
+
+7)What are the negative indexes and why are they used?
+  Negative indexing is used to begin slicing from the end of the string i.e. the last.
+  Slicing in python gets a sub-string from a string.
+  The slicing range is set as parameters i.e. start,stop and step.
+  Negative indicies are powers also called exponents with a minus sign in front of them.
+  E.G.We get negative indices by dividing two terms with the same base where the first
+  term is smaller than the power that the second term is raise to.
+  The uses of negative  indexing can be done to use or display data from the end of the
+  list.
+  It can also be used to reverse a number or a string without usinng other functions.
+  i.e.-1 gives the last element of the list.
+      -2 gives the second last element of the list and so on.
+
