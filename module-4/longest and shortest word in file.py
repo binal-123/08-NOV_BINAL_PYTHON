@@ -1,0 +1,5 @@
+s=open("new_file.txt","r")
+v=s.read()
+list=v.split()
+print(max(list,key=len))
+print(min(list,key=len))
