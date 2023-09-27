@@ -1,4 +1,4 @@
-1)what is software?
+1)what is software?..
   A set of instructions,data or programs used to operate a computer and execute specific
   tasks is a software.
   Computer instructions or data anything that can be stored electronically.
